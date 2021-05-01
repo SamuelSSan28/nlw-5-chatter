@@ -1,0 +1,6 @@
+Createa migrattion 
+yarn typeorm migration:create -n Name(Create something, Update another )
+
+
+Executar Migration
+yarn typeorm migration:run
