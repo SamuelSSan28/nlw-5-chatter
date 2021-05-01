@@ -1,10 +1,13 @@
-<h1 align="center"> 
+<div align="center">
  <img src="https://i.imgur.com/ElQDYkY.png" alt="Logo" height="50px" />
-</h1>
+
+<br />
 
 [![Author](https://img.shields.io/badge/author-samuelssan28-8257E5?style=flat-square)](https://github.com/samuelssan28)
 [![Languages](https://img.shields.io/github/languages/count/samuelssan28/nlw-5-podcastr?color=%238257E5&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/samuelssan28/nlw-5-podcastr?color=8257E5&style=flat-square)](https://github.com/samuelssan28/nlw-5-podcastr/stargazers)
+
+</div>
 
 Permit to register users and its settings, also manage websocket connections and messages. The app has friendly errors, validation, also a simple versioning was made.
 
